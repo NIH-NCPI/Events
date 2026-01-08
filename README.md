@@ -1,1 +1,69 @@
-# Events
+<p align="center"><img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="250" alt="NCPI Logo"/></p>
+
+
+<div align="center">
+  <h2>
+    <a href="https://github.com/NIH-NCPI"> Home</a> |
+    <a href="https://github.com/NIH-NCPI/About/blob/main/README.md">About</a> |
+    <a href="https://github.com/NIH-NCPI/Partners/blob/main/README.md">Partners</a> |
+    <a href="https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md"> Projects</a> |
+    <a href="https://github.com/NIH-NCPI/Resources/blob/main/README.md">Resources</a> | 
+    <a> Events </a>
+  </h2>
+</div>
+
+<h1> <p align="center"> Events </h1>
+
+<h2> Most Recent Workshop </h2>
+<h3> 2025 NCPI Fall Workshop </h3>
+
+The NCPI Fall Workshop took place on September 25-26, 2025, in Rockville, Maryland, convening Interoperability Project teams, NCPI Steering Committee members, and colleagues from across NIH. The workshop focused on reviewing NCPI’s progress, sharing lessons learned, identifying opportunities for collaboration across NIH data ecosystems, and fostering new connections among participants.
+
+The meeting agenda is available [here](Workshop_Resources/NCPI_Fall_2025_Workshop_Public_Agenda.pdf), and a full report out is forthcoming.
+
+<h2> Upcoming Workshop </h2>
+<h3> 2026 NCPI Workshop </h3>
+
+Planning for the next NCPI workshop is underway. The event is scheduled for March 4, 2026. Plans for this workshop are still preliminary, please check back periodically.
+
+
+<h2> Past Workshops </h2>
+
+<h3> 2025 NCPI Spring Workshop </h3>
+
+*May 1, 2025; May 6, 2025*
+
+NCPI hosted a spring virtual workshop spread across two sessions on May 1 and 6, 2025. The goal of the workshop was to conduct a deep dive on Search across NCPI systems, FHIR, and data standards to understand the technical challenges that need to be addressed to advance technical interoperability and scientific research in the NCPI ecosystem. The NCPI ACC worked with NCPI leadership and the NCPI community to develop a 9-month roadmap based on the outcomes of these workshops.
+
+[Spring 2025 Workshop Summary](Spring-2025-Workshop.md)
+
+
+<h3> Fall 2024 Workshop </h3>
+
+*September 25-26, 2024*
+
+The NCPI Fall 2024 Workshop, held on September 25-26, 2024, in Rockville, MD, brought together a diverse group of researchers, developers, and stakeholders to collaborate on breaking down silos and building bridges within the biomedical research ecosystem. The workshop included discussions on data interoperability, integration challenges, and the adoption of standards. Highlights included updates from the NIH Office of Data Science Strategy, interoperability project teams' success stories, and NCPI future plans. Participants explored major challenges in interoperability, the importance of community engagement, and discussed concrete steps forward to enhance NCPI's impact.
+
+[Fall 2024 Workshop Summary](Fall-2024-Workshop.md)
+
+
+NCPI hosted a series of workshops before the establishment of the Adminsitrative Coordinating Center. More information on these events can be found [here](Past-Workshops.md). 
+
+<h2> Other Events </h2>
+
+<h3> June 5, 2024 – Virtual Touchpoint on Interoperability </h3>
+
+On June 5, 2024, the NCPI program held its second Virtual Touchpoint, focusing on Interoperability Projects and attended by award institutions, companies, NIH ODSS representatives, and NCPI Working Group members. The event aimed to continue engagement from the first Touchpoint, allow Interoperability Projects to introduce their work and goals, discuss common challenges and integration opportunities, and identify topics for the upcoming NCPI Workshop in September 2024.  
+[View summary (Public Version)](Virtual-Touchpoint-June-24.md)
+
+<h3> April 21–24, 2024 – NCPI Presence at GA4GH Connect </h3>
+
+Members of NIH Cloud Platform Interoperability (NCPI) took part in the 2024 GA4GH Connect meeting in Switzerland. A goal of this meeting was the introduction of new Driver Projects including NCPI, the NHLBI BioData Catalyst (BDC), the Biomedical Research Hub (BRH), and others. NCPI representatives presented on program needs, focusing on data discovery and data governance challenges.
+
+Key points of NCPI participation included strategic engagement plans with GA4GH and collaborative discussions on RAS implementations to enable secure researcher access to NIH data sets.  
+[View GA4GH Connect 2024 Meeting Report](Workshop_Resources/GA4GH_Connect_2024_Meeting_Report.pdf)
+
+<h3> January 19, 2024 – Virtual Touchpoint on Interoperability </h3>
+
+On January 19, 2024, the NCPI program hosted a Virtual Touchpoint event with over 70 attendees from various NIH Institutes, the NIH Office of Data Science Strategy, and non-NIH institutions involved in NCPI Participating Partner Systems. The event aimed to discuss interoperability topics, share ideas and concerns, and build community momentum for the next NCPI Workshop.  
+[View summary (Public Version)](Virtual-Touchpoint-Jan-24.md)
