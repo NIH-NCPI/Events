@@ -1,3 +1,6 @@
+<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Events](README.md)/Fall 2025 Workshop
+
+
 <h1> Fall 2025 NCPI Workshop </h1>
 
 The 2025 NCPI Fall Workshop took place on September 25-26 in Rockville, Maryland. The workshop convened Interoperability Project Teams, NCPI Steering Committee members, and other colleageus from across the NIH. 
