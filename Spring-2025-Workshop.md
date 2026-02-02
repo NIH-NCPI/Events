@@ -1,4 +1,4 @@
-<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Events](Events.md)/Spring 2025 Workshop
+<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Events](README.md)/Spring 2025 Workshop
 
 # Spring 2025 NCPI Workshop 
 
