@@ -14,23 +14,23 @@
 
 <h1> <p align="center"> Events </h1>
 
-<h2> Most Recent Workshop </h2>
+
+<h2> Past NCPI Workshops </h2>
+
+<h3> 2026 NCPI Spring Workshop </h3>
+
+The NCPI Spring workshop was held virtually on Wednesday, March 4th, 2026. This was the final workshop conducted by the ACC, and aimed to share successes and lessons learned from the interoperability projects and idenfity common challenges and potential next steps for the NCPI ecosystem. NCPI stakeholders gave final updates on the interoperability projects, FHIR Working Group and Implementation Guide development, and the NCPI dataset catalog. 
+
+A full report on the 2026 Spring Workshop can be found [here](https://github.com/NIH-NCPI/Events/blob/main/NCPI-2026-Spring-Workshop-Report-Out.pdf). 
+
 <h3> 2025 NCPI Fall Workshop </h3>
 
 *September 25-26, 2025* 
 
 The NCPI Fall Workshop took place on September 25-26, 2025, in Rockville, Maryland, convening Interoperability Project teams, NCPI Steering Committee members, and colleagues from across NIH. The workshop focused on reviewing NCPI’s progress, sharing lessons learned, identifying opportunities for collaboration across NIH data ecosystems, and fostering new connections among participants. Interoperability project teams gave a series of demonstrations, on which more information can be found [here](Fall-2025-Workshop-Demonstrations.md). 
 
-A full report out on the Fall Workshop can be found [here](Fall-2025-Workshop-Readout.pdf). 
+A full report out on the 2025 Fall Workshop can be found [here](Fall-2025-Workshop-Readout.pdf). 
 
-
-<h2> Upcoming Workshop </h2>
-<h3> 2026 NCPI Workshop </h3>
-
-Planning for the next NCPI workshop is underway. The event is scheduled for March 4, 2026. Plans for this workshop are still preliminary, please check back periodically.
-
-
-<h2> Past Workshops </h2>
 
 <h3> 2025 NCPI Spring Workshop </h3>
 
